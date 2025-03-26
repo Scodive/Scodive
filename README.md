@@ -1,5 +1,5 @@
 
-<img src="https://count.getloli.com/get/@:Scodive?theme=gelbooru-h" alt=":name" /> ![](https://api.visitorbadge.io/api/VisitorHit?user=Scodive&repo=Scodive&countColor=%57068c) ![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2010%20mins-blue)
+![](https://api.visitorbadge.io/api/VisitorHit?user=Scodive&repo=Scodive&countColor=%57068c) ![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2010%20mins-blue)
 
 
 
