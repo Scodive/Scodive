@@ -1,6 +1,9 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Scodive&repo=Scodive&countColor=%57068c) ![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2010%20mins-blue)
 
 
+<img src="https://count.getloli.com/get/@:Scodive?theme=gelbooru-h" alt=":name" />
+
+
 ```text
 🌞 Morning                28 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.42 % 
 🌆 Daytime                153 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.17 % 
