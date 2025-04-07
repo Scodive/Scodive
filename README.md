@@ -1,6 +1,9 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Scodive&repo=Scodive&countColor=%57068c) 
 
+👋 Hi there! I'm currently an undergraduate student majoring in Computer Science. I’m passionate about AI, multimodal learning, and real-world applications of large models.
+
+🤝 I'm always open to collaboration! If you have a research idea or want to work together in any project, feel free to reach out — I’d love to connect (hjiangbg@connect.ust.hk).
 
 <!--START_SECTION:waka-->
 ```text
