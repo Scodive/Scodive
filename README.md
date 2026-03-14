@@ -1,7 +1,13 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Scodive&repo=Scodive&countColor=%57068c) 
 
-👋 Hi there! I'm currently an PhD student majoring in Computer Science. I’m passionate about AI, multimodal learning, and real-world applications of large models.
+👋 Hi there! I'm currently an PhD student at Department of Computer Science and Engineering, Southern University of Science and Technology.
+
+My research focuses on building Safe, Robust, and Reliable autonomy systems that can operate effectively in complex, real-world environments. I focus on:
+
+- Agent Safety & Evaluation: Investigating “Agentic Pressure” to understand and mitigate safety risks and “normative drift” in LLM-based autonomous agents.
+
+- Embodied Robustness & Uncertainty: Developing uncertainty quantification for VLMs Autonomous Driving and view-invariant 3D Human Pose Estimation to ensure reliable perception in the wild.
 
 🤝 I'm always open to collaboration! If you have a research idea or want to work together in any project, feel free to reach out — I’d love to connect (hjiangbg@connect.ust.hk).
 
