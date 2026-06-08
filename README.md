@@ -3,13 +3,13 @@
 
 👋 Hi there! I'm currently an PhD student at Department of Computer Science and Engineering, Southern University of Science and Technology.
 
-My research focuses on building Safe, Robust, and Reliable autonomy systems that can operate effectively in complex, real-world environments. I focus on:
+My research focuses on building Safe, Robust, and Reliable autonomy systems that can operate effectively in complex, real-world environments.
 
-- Agent Safety & Evaluation: Investigating “Agentic Pressure” to understand and mitigate safety risks and “normative drift” in LLM-based autonomous agents.
+- Agent Safety: We investigate the endogenous safety of LLM-based autonomous agents under non-adversarial settings (i.e., safety risks and normative drift emerging from benign constraints). To bridge the gap between static benchmarks and dynamic real-world environments, we introduce the concept of Agentic Pressure.
 
-- Embodied Robustness & Uncertainty: Developing uncertainty quantification for VLMs Autonomous Driving and view-invariant 3D Human Pose Estimation to ensure reliable perception in the wild.
+- Agent Evaluation: We develop fine-grained, diagnostic assessment frameworks to better understand and quantify agent capabilities.
 
-🤝 I'm always open to collaboration! If you have a research idea or want to work together in any project, feel free to reach out — I’d love to connect (hjiangbg@connect.ust.hk).
+🤝 I'm always open to collaboration! If you have a research idea or want to work together in any project, feel free to reach out — I’d love to connect (jianghl2025@mail.sustech.edu.cn, hjiangbg@connect.ust.hk).
 
 <!--START_SECTION:waka-->
 ```text
