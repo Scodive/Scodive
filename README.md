@@ -5,11 +5,11 @@
 
 My research focuses on building Safe, Robust, and Reliable autonomy systems that can operate effectively in complex, real-world environments.
 
-- Agent Safety: We investigate the endogenous safety of LLM-based autonomous agents under non-adversarial settings (i.e., safety risks and normative drift emerging from benign constraints). To bridge the gap between static benchmarks and dynamic real-world environments, we introduce the concept of Agentic Pressure.
+- Agent Safety: We investigate a new type of safety for LLM-based autonomous agents under non-adversarial settings. We introduce the concept of Agentic Pressure [ICLR’26, ACL’26] and find that agents sacrifice safety constraints to achieve task goals when placed under realistic operational pressure without any adversarial inputs. This work helps to bridge the gap between static benchmarks and dynamic real-world environments.
 
-- Agent Evaluation: We develop fine-grained, diagnostic assessment frameworks to better understand and quantify agent capabilities.
+- Agent Evaluation: We develop fine-grained, diagnostic assessment frameworks to better understand and quantify agent capabilities. MOAE is a self-evolving method that jointly optimizes agents for multiple objectives.
 
-🤝 I'm always open to collaboration! If you have a research idea or want to work together in any project, feel free to reach out — I’d love to connect (jianghl2025@mail.sustech.edu.cn).
+🤝 I'm always open to collaboration, feel free to reach out (jianghl2025@mail.sustech.edu.cn).
 
 <!--START_SECTION:waka-->
 ```text
